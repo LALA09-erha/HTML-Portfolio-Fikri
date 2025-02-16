@@ -1,17 +1,17 @@
 # Web Portfolio
 
 ## Overview
+
 This web portfolio showcases my skills, projects, and personal information as a web developer. It is built using pure HTML, CSS, and JavaScript, adhering to modern web standards and best practices.
 
 ## Project Structure
+
 ```
 web-portfolio
 ├── css
 │   └── styles.css
 ├── js
 │   └── script.js
-├── images
-│   └── profile.jpg
 ├── index.html
 └── README.md
 ```
@@ -27,15 +27,18 @@ web-portfolio
 - **images/profile.jpg**: The profile picture used in the aside section of the portfolio.
 
 ## Setup Instructions
+
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in your web browser to view the portfolio.
 3. Ensure that all assets (CSS, JS, images) are correctly linked in the HTML file.
 
 ## Features
+
 - Responsive design that adapts to various screen sizes.
 - Sticky navigation bar for improved user experience.
 - Semantic HTML for better accessibility and SEO.
 - Interactive elements powered by JavaScript.
 
 ## Additional Information
+
 Feel free to explore the code and customize the portfolio as per your needs. Contributions and feedback are welcome!
